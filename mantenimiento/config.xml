@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mantenimiento</name>
+	<displayName><![CDATA[Mantenimiento]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Módulo de personalización de la página de mantenimiento]]></description>
+	<author><![CDATA[pradev]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
